@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+
+
 # Lecture Notes for nyc-mhtn-ds-102620 :floppy_disk:
 
 For any new lecture notes, duplicate the notebook you will be using and rename it to something suitable (e.g ProgrammingFundamentalsI_Notes.ipynb). 
